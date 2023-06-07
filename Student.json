@@ -21,13 +21,6 @@
       english:70
    },
    {  
-      name:'rajeev',
-      gender:'Male',
-      physics:30,
-      maths:25,
-      english:40
-   },
-   {  
       name:'pooja',
       gender:'Female',
       physics:67,
